@@ -54,7 +54,7 @@ span{
     padding: 30px;
     
    
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.9);
 }
 .Jeanette{
     color:  hsl(217, 19%, 35%);
@@ -63,7 +63,7 @@ span{
    
     
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.9);
 }
 .Patrick{
     background: hsl(219, 29%, 14%);
@@ -72,7 +72,7 @@ span{
    
     
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.9);
 }
 .Kira{
     background: hsl(0, 0%, 100%) ;
@@ -80,7 +80,7 @@ span{
     border-radius: 10px;
     border-radius: 10px;
     padding: 30px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.9);
 }
 
 .Kira  .p1 {
@@ -88,7 +88,7 @@ span{
 }
 
 .container {
-    margin-top: 150px;
+    margin-top: 190px;
     display: grid;
     grid-template-columns: repeat(4 ,1fr);
     grid-template-rows: repeat(2, auto); /* Two rows */
